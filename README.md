@@ -1,9 +1,10 @@
 <div>
-  <img src="https://www.linkedin.com/in/elena-matrosova/overlay/background-image/" height = 350 align="center">
-</div>
-<h1 align="center">Hi there!</h1>
+  <img src="background.jpg" align="center">
+  </div>
+
+<h2 align="center">Hi there!</h2>
 <h4 align="left">My name is Lena and I`m a Back-end Developer (~1 year) with three years of experience in analytics.</h4>
-<h4 align="center">To contact: <a href="https://t.me/roleni" target="_blank"><img src="https://img.shields.io/badge/-roleni-red?color=white&logo=telegram&logoColor=blue" height="32"/></a></h4>
+<h4 align="center">To contact: <a href="https://t.me/roleni" target="_blank"><img src="https://img.shields.io/badge/-roleni-red?color=white&logo=telegram&logoColor=blue" height="16"/></a></h4>
 
 
 ### Languages and Tools
