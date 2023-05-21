@@ -9,7 +9,7 @@
 
 
 
-### Languages and Tools
+#### Languages and Tools:
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="" width="40" height="40"/>&nbsp;
   <img src="https://github.com/plotly/dash/blob/dev/dash/favicon.ico" title="Dash" alt="" width="40" height="40"/>&nbsp;
@@ -22,8 +22,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="" width="40" height="40"/>&nbsp;
 
 <br></br>
-
-
 
 ![](https://komarev.com/ghpvc/?username=R0leni&color=brightgreen)
 
