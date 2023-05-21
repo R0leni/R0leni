@@ -1,6 +1,6 @@
-<h1 align="center">Hi there, I'm Lena</h1>
-<h3 align="center">I`m a Back-end Developer (~1 year) with three years of experience in analytics from Moscow.</h3>
-<h3 align="center">To contact: <a href="https://t.me/roleni" target="_blank"><img src="https://img.shields.io/badge/-roleni-red?color=white&logo=telegram&logoColor=blue" height="32"/></a></h3>
+<h1 align="center">Hi there!</h1>
+<h4 align="left">My name is Lena and I`m a Back-end Developer (~1 year) with three years of experience in analytics.</h4>
+<h4 align="center">To contact: <a href="https://t.me/roleni" target="_blank"><img src="https://img.shields.io/badge/-roleni-red?color=white&logo=telegram&logoColor=blue" height="32"/></a></h4>
 
 
 ### Languages and Tools
