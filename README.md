@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 ### 💫 About Me
-My name is Lena. 
-I`m a back-end developer for a year. 
-Before that I have already worked as an Data Analyst and a programmer in the field of stress analysis for 3 years.
+My name is Lena. \
+I`m a Back-end Developer for a year. \
+Before that I have already worked as an Data Analyst and a Programmer in the field of stress analysis for 3 years.
 
 ### 👩‍💻 Languages and Tools
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
@@ -11,7 +11,7 @@ Before that I have already worked as an Data Analyst and a programmer in the fie
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-plain.svg" title="FastApi" alt="" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="Flask" alt="" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/tree/master/icons/matlab" title="Flask" alt="" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/tree/master/icons/matlab" title="Matlab" alt="" width="40" height="40"/>&nbsp;
   
 <br></br>
 
