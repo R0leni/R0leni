@@ -8,7 +8,7 @@ Before that I have already worked as an Data Analyst and a Programmer in the fie
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-plain.svg" title="FastApi" alt="" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="Flask" alt="" width="40" height="40"/>&nbsp;
-  <img src="https://yandex.ru/images/search?from=tabbar&img_url=https%3A%2F%2Fyalinsolutions.com%2Fwp-content%2Fuploads%2F2021%2F04%2Fdd.jpeg&lr=213&ogl_url=https%3A%2F%2Fyalinsolutions.com%2Fwp-content%2Fuploads%2F2021%2F04%2Fdd.jpeg&pos=0&rlt_url=https%3A%2F%2Faws1.discourse-cdn.com%2Fbusiness7%2Fuploads%2Fplot%2Foriginal%2F3X%2Ff%2F3%2Ff3da33405ee7e693abfd12bd4ae334a55e8345d0.png&rpt=simage&text=dash%20python%20logo" title="Dash" alt="" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/plotly/dash/blob/dev/dash/favicon.ico" title="Dash" alt="" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" title="Docker" alt="" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="Matlab" alt="" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original.svg" title="SQLalchemy" alt="" width="40" height="40"/>&nbsp;
