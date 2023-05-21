@@ -17,6 +17,7 @@
 
 <br></br>
 
+![](https://komarev.com/ghpvc/?username=R0leni&color=dc143c)
 To reach me: [![Telegram](https://img.shields.io/badge/-roleni-red?color=white&logo=telegram&logoColor=blue)](https://t.me/roleni)
 
 <!--
