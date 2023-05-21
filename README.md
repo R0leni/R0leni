@@ -1,6 +1,6 @@
-### Hi there 👋! My name is Lena
-I`m a Back-end Developer for a year. \
-Before that I have already worked as an Data Analyst and a Programmer in the field of stress analysis for 3 years.
+<h1 align="center">Hi there, I'm Lena</h1>
+<h3 align="center">I`m a Back-end Developer (~1 year) from Moscow with three years of experience in analytics.</h3>
+<h3 align="center">To contact: [![Telegram](https://img.shields.io/badge/-roleni-red?color=white&logo=telegram&logoColor=blue)](https://t.me/roleni)</h3>
 
 ### Languages and Tools
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
