@@ -1,3 +1,6 @@
+<div>
+  <img src="https://www.linkedin.com/in/elena-matrosova/overlay/background-image/" height = 350 align="center">
+</div>
 <h1 align="center">Hi there!</h1>
 <h4 align="left">My name is Lena and I`m a Back-end Developer (~1 year) with three years of experience in analytics.</h4>
 <h4 align="center">To contact: <a href="https://t.me/roleni" target="_blank"><img src="https://img.shields.io/badge/-roleni-red?color=white&logo=telegram&logoColor=blue" height="32"/></a></h4>
@@ -16,6 +19,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="" width="40" height="40"/>&nbsp;
 
 <br></br>
+
+
 
 ![](https://komarev.com/ghpvc/?username=R0leni&color=brightgreen)
 
