@@ -17,6 +17,7 @@
   <img src="https://github.com/plotly/dash/blob/dev/dash/favicon.ico" title="Dash" alt="" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-plain.svg" title="FastApi" alt="" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="Flask" alt="" width="40" height="40"/>&nbsp;
+  
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" title="Docker" alt="" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original.svg" title="SQLalchemy" alt="" width="40" height="40"/>&nbsp;
