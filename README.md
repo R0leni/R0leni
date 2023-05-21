@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Lena</h1>
-<h3 align="center">I`m a Back-end Developer (~1 year) from Moscow with three years of experience in analytics.</h3>
+<h3 align="center">I`m a Back-end Developer (~1 year) with three years of experience in analytics from Moscow.</h3>
 <h3 align="center">To contact: <a href="https://t.me/roleni" target="_blank"><img src="https://img.shields.io/badge/-roleni-red?color=white&logo=telegram&logoColor=blue" height="32"/></a></h3>
 
 
@@ -17,7 +17,9 @@
 
 <br></br>
 
-![](https://komarev.com/ghpvc/?username=R0leni&color=dc143c)
+![](https://komarev.com/ghpvc/?username=R0leni&color=brightgreen)
+
+
 To reach me: [![Telegram](https://img.shields.io/badge/-roleni-red?color=white&logo=telegram&logoColor=blue)](https://t.me/roleni)
 
 <!--
