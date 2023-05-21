@@ -1,6 +1,8 @@
 <div>
   <img src="background.jpg" align="center">
   </div>
+  
+![](https://komarev.com/ghpvc/?username=R0leni&color=783C55&label=Просмотров)
 <br></br>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=783C55&width=435&lines=Hello%2C+world!" alt="Typing SVG" /></a>
 <!-- <h1 align="center">Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1> -->
@@ -22,8 +24,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="" width="40" height="40"/>&nbsp;
 
 <br></br>
+<!-- ![](https://komarev.com/ghpvc/?username=your-github-username&label=Просмотров) -->
 
-![](https://komarev.com/ghpvc/?username=R0leni&color=brightgreen)
 
 <h4 align="left">To contact: 
 <a href="https://t.me/roleni" target="_blank"><img src="https://img.shields.io/badge/-roleni-red?color=white&logo=telegram&logoColor=blue" height="20"/></a>
