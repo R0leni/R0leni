@@ -1,7 +1,8 @@
 <div>
   <img src="background.jpg" align="center">
   </div>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=783C55&center=true&vCenter=true&width=435&lines=Hello%2C+world!" alt="Typing SVG" /></a>
+<br></br>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=783C55&width=435&lines=Hello%2C+world!" alt="Typing SVG" /></a>
 <!-- <h1 align="center">Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1> -->
 <!-- <h2 align="center">Hi there!</h2> -->
 <h4 align="left">My name is Lena and I`m a Back-end Developer (~1 year) with three years of experience in analytics.</h4>
