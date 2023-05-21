@@ -1,10 +1,10 @@
 <div>
   <img src="background.jpg" align="center">
   </div>
-
-<h2 align="center">Hi there!</h2>
+<h1 align="center">Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
+<!-- <h2 align="center">Hi there!</h2> -->
 <h4 align="left">My name is Lena and I`m a Back-end Developer (~1 year) with three years of experience in analytics.</h4>
-<h4 align="center">To contact: <a href="https://t.me/roleni" target="_blank"><img src="https://img.shields.io/badge/-roleni-red?color=white&logo=telegram&logoColor=blue" height="16"/></a></h4>
+
 
 
 ### Languages and Tools
@@ -25,8 +25,11 @@
 
 ![](https://komarev.com/ghpvc/?username=R0leni&color=brightgreen)
 
+<h4 align="left">To contact: 
+<a href="https://t.me/roleni" target="_blank"><img src="https://img.shields.io/badge/-roleni-red?color=white&logo=telegram&logoColor=blue" height="20"/></a>
+<a href="https://www.linkedin.com/in/elena-matrosova/" target="_blank"><img src="https://img.shields.io/badge/-roleni-blue?style=flat&logo=Linkedin&logoColor=white" height="18"/></a>
 
-To reach me: [![Telegram](https://img.shields.io/badge/-roleni-red?color=white&logo=telegram&logoColor=blue)](https://t.me/roleni)
+</h4>
 
 <!--
 **R0leni/R0leni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
