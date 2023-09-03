@@ -31,6 +31,7 @@
 <h4 align="left">To contact: 
 <a href="https://t.me/roleni" target="_blank"><img src="https://img.shields.io/badge/-roleni-red?color=white&logo=telegram&logoColor=blue" height="20"/></a>
 <a href="https://www.linkedin.com/in/elena-matrosova/" target="_blank"><img src="https://img.shields.io/badge/-roleni-blue?style=flat&logo=Linkedin&logoColor=white" height="18"/></a>
+<a href="elematro@yandex.ru" target="_blank"><img src="https://img.shields.io/badge/elematro-red?logo=maildotru" height="18"/></a>
 
 </h4>
 
